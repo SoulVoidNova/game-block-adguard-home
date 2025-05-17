@@ -2,6 +2,14 @@
 ! Description: A curated DNS filter list by SoulVoidNova to block access to HTML5 browser-based mini games across your network.
 ! Homepage: https://github.com/SoulVoidNova/games-block-adguard-home/
 ! Last updated: 17 May 2025 UTC
+||gamemonetize.com^
+||pacogames.com^              
+||vseigru.net^               
+||juegos.com^                
+||minijuegos.com^             
+||softgames.com^             
+||plays.org^                 
+||gamesload.com^              
 ||poki.com^
 ||y8.com^
 ||coolmathgames.com^
